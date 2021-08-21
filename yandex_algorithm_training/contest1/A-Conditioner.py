@@ -21,4 +21,5 @@ def main():
     print(temp_after_one_hour(t_room, t_cond, mode))
 
 
-main()
+if __name__ == '__main__':
+    main()
